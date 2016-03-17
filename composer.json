@@ -5,6 +5,7 @@
 	"keywords": ["APNS", "apple", "push", "notification"],
 	"homepage": "https://github.com/AtlasGit/ApnsPHP",
 	"license": "BSD-3-Clause",
+	"version": "1.1.1",
 	"require": {
 		"php": ">=5.5.0",
 		"lib-openssl": "*"

@@ -1,12 +1,12 @@
 {
-	"name": "duccio/apns-php",
+	"name": "atlasmobile/apns-php",
 	"type": "library",
-	"description": "Apple Push Notification & Feedback Provider",
+	"description": "Apple Push Notification & Feedback Provider (Fork)",
 	"keywords": ["APNS", "apple", "push", "notification"],
-	"homepage": "https://github.com/immobiliare/ApnsPHP",
+	"homepage": "https://github.com/AtlasGit/ApnsPHP",
 	"license": "BSD-3-Clause",
 	"require": {
-		"php": ">=5.3.0",
+		"php": ">=5.5.0",
 		"lib-openssl": "*"
 	},
 	"autoload": {
